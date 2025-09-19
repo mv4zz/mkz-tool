@@ -11,9 +11,12 @@ it runs directly through a `.bat` file, making setup fast and hassle-free.
 
 
 # installation 📖
-- clone the repository:
-  git clone https://github.com/yourusername/mkz.git
-  cd mkz
+- go to main page of this script and press code, download as zip.
+- once downloaded, unzip
+- run .bat
+- wait for libaries to install
+- after everything downloads, the termainal should pop up with the tool
+- enjoy!
 
 
 # usage 👤
