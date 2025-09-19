@@ -3,7 +3,7 @@
 mkz is a lightweight command-line tool designed to simplify and automate tasks on windows systems.  
 it runs directly through a `.bat` file, making setup fast and hassle-free.  
 
-# requirements
+# requirements 
 - windows operating system  
 - git installed (for cloning the repository)  
 - command prompt or powershell  
@@ -15,10 +15,13 @@ it runs directly through a `.bat` file, making setup fast and hassle-free.
 
 # usage
 - run the tool by executing the batch file:
-  mkz.bat
+  mkz-tool.bat
+
+# WARNING: ⚠️
+do not start the .py by a ide. libaries will not install and time gets wasted.
 
 # documentation
-- see the wiki or docs folder for detailed usage instructions and advanced options  
+- see mv4zz on discord for detailed usage instructions and better analyis of this script 🪄
 
 # screenshots 📜
 - example interface:
