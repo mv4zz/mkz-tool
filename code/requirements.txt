@@ -1,0 +1,14 @@
+discord.py
+requests
+pygame
+keyboard
+opencv-python
+pygetwindow
+pywin32
+phonenumbers
+colorama
+flask
+tqdm
+qrcode[pil]
+numpy
+asyncio
