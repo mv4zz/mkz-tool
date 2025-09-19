@@ -16,9 +16,11 @@ it runs directly through a `.bat` file, making setup fast and hassle-free.
 - once downloaded, use the wizard to guide you and properly install it to PATH.
 - after, go to main page of this script and press code, download as zip.
 - once downloaded, unzip
-- run .bat
+- download PIP by running pip-installer.bat
+- wait for it to download...
+- close and run mkz-tool.bat
 - wait for libaries to install
-- after everything downloads, the termainal should pop up with the tool
+- after everything downloads, the terminal should pop up with the tool
 - enjoy!
 ‎ 
 ‎ ‎ ‎ 
