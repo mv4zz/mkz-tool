@@ -23,17 +23,19 @@ it runs directly through a `.bat` file, making setup fast and hassle-free.
 # usage 👤
 - run the tool by executing the batch file:
   mkz-tool.bat
+‎ ‎ ‎ 
 ‎ ‎ 
-‎ 
-‎ 
+‎ ‎ 
 # WARNING: ⚠️
 do not start the .py by a ide. libaries will not install and time gets wasted.
-
-
+‎ ‎ 
+‎ ‎ 
+‎ ‎ 
 # documentation 🧑‍🏫
 - see mv4zz on discord for detailed usage instructions and better analyis of this script 🪄
-
-
+‎ 
+‎ 
+‎ 
 # screenshots 📷
 - example interface:
   ![mkz screenshot](images/loading.png)
