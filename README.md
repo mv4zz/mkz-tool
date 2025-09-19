@@ -6,12 +6,15 @@ it runs directly through a `.bat` file, making setup fast and hassle-free.
 ‎ ‎ 
 ‎ ‎ 
 # requirements 📜
-- Windows 11 operating system  
+- Windows 11 operating system
+- Latest Python Version
 ‎ ‎ 
 ‎ ‎ 
 ‎ ‎ 
 # installation 📖
-- go to main page of this script and press code, download as zip.
+- download python (latest version)
+- once downloaded, use the wizard to guide you and properly install it to PATH.
+- after, go to main page of this script and press code, download as zip.
 - once downloaded, unzip
 - run .bat
 - wait for libaries to install
