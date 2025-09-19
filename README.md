@@ -14,7 +14,7 @@ it runs directly through a `.bat` file, making setup fast and hassle-free.
 # installation 📖
 - download python (latest version)
 - once downloaded, use the wizard to guide you and properly install it to PATH.
-- after, go to main page of this script and press code, download as zip.
+- after, go to the main page of this script and press code, download as zip.
 - once downloaded, unzip
 - download PIP by running pip-installer.bat
 - wait for it to download...
