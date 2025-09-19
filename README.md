@@ -44,5 +44,4 @@ please by no chances run the script by running it in a ide. this wastes time and
 
 # screenshots 📷
 - example interface:  
-![ss 1](code\ignore 1.png)
-![ss 2](code\ignore 2.png)
+
