@@ -5,10 +5,7 @@ it runs directly through a `.bat` file, making setup fast and hassle-free.
 
 
 # requirements 📜
-- windows operating system  
-- git installed (for cloning the repository)  
-- command prompt or powershell  
-
+- Windows 11 operating system  
 
 # installation 📖
 - go to main page of this script and press code, download as zip.
