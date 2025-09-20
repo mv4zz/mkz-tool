@@ -1,6 +1,6 @@
 # mkz 💻
 
-mkz is a lightweight command-line tool designed to simplify and automate tasks on windows systems.  
+mkz is a lightweight tool designed to simplify and have some fun during tasks on windows systems.  
 it runs directly through a `.bat` file, making setup fast and hassle-free.  
 ‎ ‎ 
 ‎ ‎ 
