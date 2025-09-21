@@ -1259,7 +1259,6 @@ def run_as_admin(script_path):
 def main():            
     while True:
         os.system('cls')
-        os.system("mode 60,90")
         slow_print(logo, delay=0.00005)
         time.sleep(0.3)
         slow_print(menu, delay=0.00005)
@@ -1325,4 +1324,5 @@ def main():
 
         input("\nPress Enter to continue...")
         
+
 main()
