@@ -46,5 +46,5 @@ do not start the .py by a ide. libaries will not install and time gets wasted.
   ![mkz screenshot](images/loading.png)
   ![mkz screenshot](images/main.png)
 
-#p.s
+# p.s
 - use responsibily i am not in fault of any damage or recklessness
